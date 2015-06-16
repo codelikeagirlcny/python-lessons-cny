@@ -1,6 +1,6 @@
-####First time installing/running Python? Be sure to check out the Start Here guide: https://github.com/alisonjo2786/pythonlessons_materials/blob/master/start-here.md
+####First time installing/running Python? Be sure to check out the Start Here guide: https://github.com/alisonjo2786/python-lessons-cny/blob/master/code-exercises-etc/start-here.md
 
-In here are code snippets, examples, playtime exercises, and other ways to help teach some of the concepts and tricks in Python.
+In here are code snippets, examples, playtime exercises, and other ways to help teach some of the concepts and tricks in Python (forked from Hear Me Code).
 
 ##Suggested Learning Progression
 
