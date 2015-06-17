@@ -1,4 +1,5 @@
-####First time installing/running Python? Be sure to check out the Start Here guide: https://github.com/alisonjo2786/python-lessons-cny/blob/master/code-exercises-etc/start-here.md
+####First time installing/running Python? Be sure to check out the Start Here guide:
+<strong>https://github.com/alisonjo2786/python-lessons-cny/blob/master/code-exercises-etc/start-here.md</strong>
 
 In here are code snippets, examples, playtime exercises, and other ways to help teach some of the concepts and tricks in Python.
 
