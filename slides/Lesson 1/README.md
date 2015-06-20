@@ -22,12 +22,12 @@ Python Lesson 1 (forked from Hear Me Code)
 * If this state has no quotes, display a message.  Otherwise, show the quotes: [Used in http://shutthatdown.com](https://github.com/shannonturner/shut-that-down/blob/1f1bd488a3fea3a5ee8cbb20675d053d088cbba1/apps/shutthatdown/views.py#L150)
 
 **Code Samples:**
-* https://github.com/shannonturner/python-lessons/tree/master/section_01_(basics)
-* https://github.com/shannonturner/python-lessons/tree/master/section_02_(strings)
-* https://github.com/shannonturner/python-lessons/tree/master/section_03_(conditionals)
+* https://github.com/alisonjo2786/python-lessons-cny/tree/master/code-exercises-etc/section_01_(basics)
+* https://github.com/alisonjo2786/python-lessons-cny/tree/master/code-exercises-etc/section_02_(strings)
+* https://github.com/alisonjo2786/python-lessons-cny/tree/master/code-exercises-etc/section_03_(conditionals)
 
 **Exercises:**
-* PB&J: https://github.com/shannonturner/python-lessons/blob/master/playtime/lesson01_pbj.py
+* PB&J: https://github.com/alisonjo2786/python-lessons-cny/blob/master/code-exercises-etc/playtime/lesson01_pbj.py
 
 ###Vocabulary
 
