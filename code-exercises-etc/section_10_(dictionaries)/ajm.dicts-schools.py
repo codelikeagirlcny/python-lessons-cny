@@ -1,3 +1,4 @@
+## Exercise from ./dict_exercise.py
 schools = {
     "geometry": {
         "coordinates": [
