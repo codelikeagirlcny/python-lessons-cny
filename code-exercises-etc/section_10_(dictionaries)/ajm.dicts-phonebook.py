@@ -20,4 +20,9 @@ phonebook_as_dictionary = {
 phonebook_as_dictionary['Mel'] = '301-555-4569'
 print phonebook_as_dictionary
 
-print phonebook_as_dictionary.get('Frankenstein', 'Cannot find anything with that name!')
+#compare...
+#print phonebook_as_dictionary['Frankenstein']
+#versus...
+#print phonebook_as_dictionary.get('Frankenstein')
+#versus...
+#print phonebook_as_dictionary.get('Frankenstein', 'Cannot find anything with that name!')
