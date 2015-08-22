@@ -1,4 +1,4 @@
-## Exercise from ./dict_exercise_2.py
+## Exercise started with ./dict_exercise_2.py, but incorporats a few others in this dir
 contacts = {
     'Alison': {
         'phone':'315-481-2904',
