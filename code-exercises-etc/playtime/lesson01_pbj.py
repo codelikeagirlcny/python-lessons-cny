@@ -6,6 +6,7 @@
 
 # Third Goal: Modify that program to allow you to make open-face sandwiches if you have an odd number of slices of bread ( )
 
+# SKIP or just conceptualize / do part if you want, #4 is pretty tedious...
 # Fourth Goal: Modify that program to tell you: if you're missing ingredients, which ones you need to be able to make your sandwiches
 
 # Fifth Goal: Modify that program to tell you: if you have enough bread and peanut butter but no jelly, that you can make a peanut butter sandwich but you should take a hard, honest look at your life.  Wow, your program is kinda judgy.
