@@ -1,0 +1,12 @@
+Here are some real and fake DC addresses for the quadrants exercise.
+To test your program even more, try mixing up the cases of the quadrant abbreviations.
+
+654 E Street SE Washington DC 20003
+1401 Constitution Ave NW Washington DC 20230
+919 18th Street NW Washington DC 20036
+1100 4th St SW Washington DC 20024
+120 maryland ave ne washington dc 20002
+1500 S Capitol St SE Washington DC 20003
+1601 16th St SE Washington DC 20020
+123 Somewhere Street SW Washington DC 20022
+44 Rock Creek Pkwy SE Washingon DC 21234
