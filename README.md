@@ -1,5 +1,5 @@
 # python-lessons-cny
-## Code Like a Girl http://codelikeagirlcny.github.io/
+#### Code Like a Girl http://codelikeagirlcny.github.io/
 Free coding classes by and for women in the Central New York area -- inspired by but not affiliated with http://hearmecode.com.
 
 # Join us!
