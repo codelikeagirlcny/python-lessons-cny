@@ -1,0 +1,133 @@
+"programming is just giving really careful instructions"
+
+
+[2014-01-18]
+
+Make sure to include .py file extension, otherwise you won't get syntax highlighting in the text editor (probably other problems, too, I don't know) [This is after first copy/paste into text editor in IDLE and try to run and it prompts you to save]
+
+FYI, no word-wrap in current version of IDLE
+
+previous thing I ran		alt+p
+next thing I ran		alt+n
+
+Start typing a variable name, press tab to autocomplete
+
+Can enter logical statement things by themselves to test for TRUE/FALSE -- i.e., I can just run email.count("@") == 1 -- and the IDLE shell will reply, True or False (instead of having to do
+if email.count("@") == 1:
+	print "That is true."
+else:
+	print "That is false."
+)
+
+
+
+[2014-02-01]
+
+append takes EXACTLY one argument! (the error message told me so :) )
+
+pop() defaults to chopping off the LAST list item
+
+using enumerate() and zip() with "for"
+	zip() goes like
+		for (day, food) in zip(days_of_week, foods_of_day):
+	enumerate() goes like
+		for (index, day) in enumerate(days_of_week):
+			print "Today is the {0}th day of the week, which is {1}".format(index, day)
+			print "So day_of_week[{0}] is: {1}, which is the same as day, which is: {2}".format(index, days_of_week[index], day)
+
+**while loops**
+	>> Like an if statement, while asks "is this true?"
+	>> FOR EXAMPLE
+	if bread >= 2:
+		print 'I'm making a sandwich.'
+	-------------
+	while bread >= 2:
+		print 'I\'m making a sandwich.'
+		bread = bread - 2
+
+
+[2014-03-23]
+
+with .........
+	A python keyword to create a "container" that will automagically close the file when you're done (sweet)
+
+with open('filename.ext', 'x') .....
+	x -- parameter to set the "mode" for opening the file.
+	r: read-only mode
+	w: write mode; also, if the file doesn't exist, Python will create a new file with that name
+	a: append mode -- Python will append to the end of the existing file; also, if the file doesn't exist, Python will create a new file with that name
+	b: binary mode -- for when reading from a non-text file, like an image
+
+setting variables and printing
+	(not from this class, just popped into my head and I wanted to make a note)
+	we learned during an onboarding session that it does NOT work to set a variable and print it at the same time -- that is... the following does NOT work:
+		print first_name = "Alison"
+
+dictionary > key
+	key is always a string
+
+keys()
+	dictionary method
+	creates list of the keys of that dictionary, thru which you can iterate
+
+values()
+	dictionary method
+	creates list of values from that dictionary, thru which you can iterate
+
+items()
+	dictionary method
+	creates nested list of keys and values from that dictionary, thru which you can iterate
+
+
+[2014-04-06]
+
+dictionary review...
+	[me] really, dictionaries are just multi-dimentional arrays; makes me think of Drupal field collections... (or y'know, associative arrays in PHP)
+
+functions
+	You can include documentation about a function by adding a "help string" to very beginning of the function!!
+
+set
+	Like a list, but all values are unique
+	Tip: You can easily remove duplicates from a list simply by converting it to a "set" -- i.e. my_list = list(set(my_list))
+
+join
+	Glue together the list with a separator between each list item.
+	'\n'.join(my_list)
+
+default arg/param values
+	If your function has default arg/param values, these args/params must come last!
+
+ordering function args/params
+	If for some reason you want to provide your args/params out of order when using a function -- or lets say you're specifying values for some optional args but not others -- you can do so by explicitly defining values for each arg/param -- i.e.
+		def happening(who, what, where='Washington, DC', when=todaysDateVar):
+		[blah blah blah]
+		happening('General public', '5k skip-walk', when=myDate)
+
+[btw] True, False, None, and most other built-in constants in Python
+	MUST capitalize first letter, or Python will think the word is a variable instead of the built-in constant!!
+
+
+[2014-05-03]
+
+API (a very nice, clear definition)
+	a live connection to a resource
+
+example API query (that uses REST -- meaning you can access the API with a URL in this manner)
+	http://bechdeltest.com/api/v1/getMovieByImdbId?imdbid=0367631
+		getMovieByImdbId is the ENDPOINT
+		imdbid=0367631 is a PARAMETER and its value
+
+If you get "No JSON object could be decoded" error:
+	check for typos! check your endpoint/params/etc.
+
+
+
+
+
+
+
+
+
+
+

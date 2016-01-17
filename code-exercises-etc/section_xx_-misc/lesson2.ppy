@@ -1,0 +1,3 @@
+days_of_week = ['Monday', 'Tuesday']
+print 'First thing here: '
+print days_of_week
