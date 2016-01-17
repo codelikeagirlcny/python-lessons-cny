@@ -10,10 +10,10 @@ for index,state in enumerate(states):
     state_abbrs += states[index][0] + '\n'
     state_names += states[index][1] + '\n'
 
-with open('state_abbreviations.20151212.txt', 'w') as abbr_file:
+with open('ajm.state_abbreviations.20151212.txt', 'w') as abbr_file:
     abbr_file.write(state_abbrs)
 
-with open('state_names.20151212.txt', 'w') as name_file:
+with open('ajm.state_names.20151212.txt', 'w') as name_file:
     name_file.write(state_names)
 
 #if we do this with lists of abbrs and names instead of
