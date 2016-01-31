@@ -10,4 +10,13 @@ studybuddy_3 = 'Andrea Bianchi, 987 South St, Jamesville, NY 13078'
 studybuddy_4 = 'Kristen Link Logan, 264 Craig Street, Syracuse, NY 13211'
 studybuddy_5 = 'Nina Verity, 111 Bridge St, Solvey, NY 13209'
 
-# Goal 1: Output the ZIP code of each study buddy.
+# Goal 1: Create a program that simply prints out the ZIP codes.
+# Sample output:
+# 13152
+# 13224
+# 13078
+# (etc)
+
+# Goal 2: Modify your program to print out all the ZIP codes on the same line, with an an explanatory sentence.
+# Sample output: (but use any language you want!)
+# Our study group included people from these ZIP codes: 13152, 13224, 13078, (etc).
