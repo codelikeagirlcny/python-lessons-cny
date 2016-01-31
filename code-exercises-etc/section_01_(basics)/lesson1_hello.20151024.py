@@ -7,7 +7,8 @@ phone = '315-481-2904'
 
 print phone
 
-#print 'Alison\'s contact info:\nAlison\talisonjo2786@gmail.com\nSarah\tsarah@gmail.com'
+# Here I'm testing out tabs and new lines.
+print 'Alison\'s contact info:\nAlison\talisonjo2786@gmail.com\nSarah\tsarah@gmail.com'
 
 print "\n"
 
