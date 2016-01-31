@@ -2,7 +2,7 @@
 
 # NOTE: Please don't use anyone's *real* contact information during these exercises, especially because you're putting them up on GitHub!
 
-# For the purposes of this exercise, we're going to use unrealistically perfect and uniform addresses :)
+# For the purposes of this exercise, we're going to use unrealistically perfect and uniform addresses, and one-word first names :)
 
 studybuddy_1 = 'Alison McCauley, 1234 County Line Road, Skaneateles, NY 13152'
 studybuddy_2 = 'Dee Cater, 555 Bradford Pkwy, Syracuse, NY 13224'
