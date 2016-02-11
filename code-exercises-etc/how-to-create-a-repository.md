@@ -4,4 +4,4 @@ We will be using GitHub for our class materials and exercises. Class materials w
 1. Login to your GitHub account. If you have not yet created one, sign up and login.
 2. Once signed in, look for the plus sign in the upper right hand corner, click the dropdown menu next to it and select “New Repository”.
 3. Name your repository (ex. Python Lessons) and add a description if you’d like. Keep the repo “Public” and check the box to <b>“Initialize this repository with a README”</b>. (You don’t need to change anything with the boxes that say “Add .gitignore” and “Add a license”) 
-4. Create repository!
+4. Create repository! 
