@@ -15,7 +15,7 @@ elif 'se' in address1_as_list:
 elif 'sw' in address1_as_list:
     sw_quadrant.append(address1)
 else:
-    'Could not place address1 into a quadrant list.'
+    print 'Could not place address1 into a quadrant list.'
 
 address2 = raw_input('Enter the second address. ')
 address2 = address2.lower()
@@ -29,7 +29,7 @@ elif 'se' in address2_as_list:
 elif 'sw' in address2_as_list:
     sw_quadrant.append(address2)
 else:
-    'Could not place address2 into a quadrant list.'
+    print 'Could not place address2 into a quadrant list.'
 
 address3 = raw_input('Enter the third address. ')
 address3 = address3.lower()
@@ -43,7 +43,7 @@ elif 'se' in address3_as_list:
 elif 'sw' in address3_as_list:
     sw_quadrant.append(address3)
 else:
-    'Could not place address3 into a quadrant list.'
+    print 'Could not place address3 into a quadrant list.'
 
 ###########
 print "\nNumber of addresses in NW quadrant: {0}".format(len(nw_quadrant))
