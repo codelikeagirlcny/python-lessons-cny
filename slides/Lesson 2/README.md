@@ -31,15 +31,15 @@ Hear Me Code Lesson 2
 * If one or two artworks don't load, get a new artwork to replace it until we have two artworks that do load: [Used in http://shannonvturner.com/art/mash](https://github.com/shannonturner/art-games/blob/59809fe951bcfd83e984039b82d9ae1191b04fe2/apps/mash/museum_apis/victoria_albert_museum_api.py#L71)
 
 **Code Samples:**
-* https://github.com/shannonturner/python-lessons/tree/master/section_04_(lists)
-* https://github.com/shannonturner/python-lessons/tree/master/section_05_(loops)
-* https://github.com/shannonturner/python-lessons/tree/master/section_06_(str-list)
+* https://github.com/codelikeagirlcny/python-lessons-cny/tree/master/code-exercises-etc/section_04_(lists)
+* https://github.com/codelikeagirlcny/python-lessons-cny/tree/master/code-exercises-etc/section_05_(loops)
+* https://github.com/codelikeagirlcny/python-lessons-cny/tree/master/code-exercises-etc/section_06_(str-list)
 
 **Exercises:**
-* 99 bottles (Beginner): https://github.com/shannonturner/python-lessons/blob/master/playtime/lesson02_99bottles.py
-* PBJ while (Beginner): https://github.com/shannonturner/python-lessons/blob/master/playtime/lesson02_pbj_while.py
-* States (Intermediate): https://github.com/shannonturner/python-lessons/blob/master/playtime/lesson02_states.py
-* Movies (Advanced): https://github.com/shannonturner/python-lessons/blob/master/playtime/lesson02_movies.py
+* 99 bottles (Beginner): https://github.com/codelikeagirlcny/python-lessons-cny/blob/master/code-exercises-etc/playtime/lesson02_99bottles.py
+* PBJ while (Beginner): https://github.com/codelikeagirlcny/python-lessons-cny/blob/master/code-exercises-etc/playtime/lesson02_pbj_while.py
+* States (Intermediate): https://github.com/codelikeagirlcny/python-lessons-cny/blob/master/code-exercises-etc/playtime/lesson02_states.py
+* Movies (Advanced): https://github.com/codelikeagirlcny/python-lessons-cny/blob/master/code-exercises-etc/playtime/lesson02_movies.py
 
 ###Vocabulary
 
