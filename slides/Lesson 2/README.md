@@ -1,4 +1,4 @@
-Hear Me Code Lesson 2
+Code Like a Girl: Python Lesson 2 (Lists and Loops)
 ======
 
 **What you'll learn:** 
