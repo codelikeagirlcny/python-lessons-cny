@@ -8,6 +8,6 @@ with open("states.txt", "r") as states_file:
     #states = states.split("\n")
 
 print states
-##print states[0]
-##print states[1]
-##print states[2]
+print states[0]
+print states[1]
+print states[2]
