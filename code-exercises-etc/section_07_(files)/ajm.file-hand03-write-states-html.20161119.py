@@ -3,6 +3,7 @@ with open("states.csv", "r") as states_file:
 
     for index, state in enumerate(states):
         states[index] = state.split(",")
+        #state_abbrs.append(states[index][0])
 
 #print states
 
@@ -16,7 +17,6 @@ for state in states:
     #state = ["AK","Alaska"]
     state_abbrs.append(state[0])
     state_names.append(state[1])
-
 #print state_abbrs
 #print state_names
 
