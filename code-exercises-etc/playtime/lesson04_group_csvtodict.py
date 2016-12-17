@@ -4,7 +4,7 @@
 
 # Scenario: Your organization has put on three events and you have a CSV with details about those events
 #           You have the event's date, a brief description, its location, how many attended, how much it cost, and some brief notes
-#           File: https://github.com/shannonturner/python-lessons/blob/master/section_09_(functions)/events.csv
+#           File: https://github.com/codelikeagirlcny/python-lessons-cny/blob/master/code-exercises-etc/section_09_(functions)/events.csv
 
 # Goal: Read this CSV into a dictionary.
 
