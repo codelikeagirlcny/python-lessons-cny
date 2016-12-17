@@ -10,7 +10,7 @@ Before you can install it on your computer, you'll need to install a package man
 The preferred package manager is called pip, but we need to take a few steps to get there.
 
 ## Complete these two steps before going on to your system-specific instructions below.
-* First, go here: https://bitbucket.org/pypa/setuptools/raw/bootstrap/ez_setup.py
+* First, go here: https://bitbucket.org/pypa/setuptools/downloads/ez_setup.py
 * Copy / save that file to your computer
 
 **Windows-specific instructions**
