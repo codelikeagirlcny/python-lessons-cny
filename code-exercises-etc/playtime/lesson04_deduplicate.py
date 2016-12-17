@@ -2,10 +2,10 @@
 
 # Scenario: You have two files containing a list of email addresses of people who attended your events.
 #       File 1: People who attended your Film Screening event
-#       https://github.com/codelikeagirlcny/python-lessons-cny/tree/master/code-exercises-etc/section_09_(functions)/film_screening_attendees.txt
+#       https://github.com/codelikeagirlcny/python-lessons-cny/blob/master/code-exercises-etc/section_09_(functions)/film_screening_attendees.txt
 #
 #       File 2: People who attended your Happy hour
-#       https://github.com/codelikeagirlcny/python-lessons-cny/tree/master/code-exercises-etc/section_09_(functions)/happy_hour_attendees.txt
+#       https://github.com/codelikeagirlcny/python-lessons-cny/blob/master/code-exercises-etc/section_09_(functions)/happy_hour_attendees.txt
 #
 
 # Note: You should create functions to accomplish your goals.
