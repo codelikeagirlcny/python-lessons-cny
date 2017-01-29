@@ -35,3 +35,6 @@ There's a known problem making it more difficult for Macs to run IDLE (see http:
 - Make sure you're in the correct folder! You can check which folder the terminal is looking in by typing **pwd**
 - Similarly, make sure the file you want to run is in the folder you're in! Type **ls** to see all of the files in the folder terminal is currently working in.
 - Remember that when you see the dollar sign prompt (**$**), you're working in terminal, and can run scripts at the command line.  But when you see the **>>>** prompt, you're in Python's interactive interpreter mode, and you'll need to type **exit()** to get back.
+
+####Sublime Text
+- *Mac* users should install Sublime Text 2 -- Windows/Linux users can grab it, too, but it's more essential for Mac folks, since they can't use IDLE for text editing.
