@@ -29,4 +29,4 @@
 
 # When you've printed out your information like the example above, copy/paste that into a file and save it as a .csv file.
 # Open that up in Excel, Numbers, or another spreadsheet program.  How does it look?
-# To see an example of how it should look, check out: https://github.com/shannonturner/python-lessons/blob/master/section_05_(loops)/movies.csv
+# To see an example of how it should look, check out: https://github.com/codelikeagirlcny/python-lessons-cny/blob/master/code-exercises-etc/section_05_(loops)/movies.csv
