@@ -26,4 +26,4 @@
 # Later, when we learn file handling, we can skip the copy/paste step.
 # File handling can also let us create a file with the state names and abbreviations in it so we don't have to add it to our code.
 
-# Your finished project should look something like: https://github.com/shannonturner/python-lessons/blob/master/section_05_(loops)/states.html
+# Your finished project should look something like: https://github.com/codelikeagirlcny/python-lessons-cny/blob/master/code-exercises-etc/section_05_(loops)/states.html
