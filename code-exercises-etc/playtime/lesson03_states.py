@@ -6,7 +6,7 @@
 #       You also have a spreadsheet in comma separated value (CSV) format, state_info.csv.  See also section_07_(files)
 #       state_info.csv has the following columns: Population Rank, State Name, Population, US House Members, Percent of US Population
 
-# Challenge 1: Open states.txt and use the information to generate an HTML drop-down menu as in: https://github.com/shannonturner/python-lessons/blob/master/playtime/lesson02_states.py
+# Challenge 1: Open states.txt and use the information to generate an HTML drop-down menu as in: https://github.com/codelikeagirlcny/python-lessons-cny/blob/master/code-exercises-etc/playtime/lesson02_states.py
 
 # Challenge 2: Save the HTML as states.html instead of printing it to screen.  
 # Your states.html should look identical (or at least similar) to the one you created in the Lesson 2 playtime, except you're getting the states from a file instead of a list.
