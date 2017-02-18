@@ -15,3 +15,16 @@ for index, handle in enumerate(twitter_handles):
 
 print twitter_handles
 
+
+#### ALSO ####
+# This example was "stolen" from ajm.lists01_attendees.20160220.py
+
+attendees = ['Shannon', 'Jenn', 'Grace']
+for index, attendee in enumerate(attendees):
+    attendees[index] = 'Ms. ' + attendee
+
+print attendees
+print attendee
+
+##for attendee in attendees:
+##    attendee = 'Ms. ' + attendee
