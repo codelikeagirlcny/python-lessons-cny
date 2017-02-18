@@ -23,4 +23,3 @@ print "\n There are {0} addresses in the NW quadrant: {1}.".format(len(NWaddress
 print "There are {0} addresses in the NE quadrant: {1}.".format(len(NEaddresses), NEaddresses)
 print "There are {0} addresses in the SE quadrant: {1}.".format(len(SEaddresses), SEaddresses)
 print "There are {0} addresses in the SW quadrant: {1}.".format(len(SWaddresses), SWaddresses)
-
