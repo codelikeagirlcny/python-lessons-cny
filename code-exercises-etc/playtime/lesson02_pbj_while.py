@@ -12,7 +12,7 @@
 # Making sandwich #2
 # All done; only had enough ingredients for 2 sandwiches.
 
-# Goal #2: Modify that program to say how many sandwiches-worth of each ingredient remains.
+# Goal #2: Modify that program to say how many sandwiches-worth of each ingredient remain.
 
 # Example 2:
 # bread = 10
