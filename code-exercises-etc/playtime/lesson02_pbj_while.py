@@ -10,7 +10,7 @@
 # Output:
 # Making sandwich #1
 # Making sandwich #2
-# All done; only had enough bread for 2 sandwiches.
+# All done; only had enough ingredients for 2 sandwiches.
 
 # Goal #2: Modify that program to say how many sandwiches-worth of each ingredient remains.
 
