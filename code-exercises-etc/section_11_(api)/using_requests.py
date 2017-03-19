@@ -1,4 +1,10 @@
+# Prereq: You'll need the requests library installed on your system! (via pip)
+# https://github.com/codelikeagirlcny/python-lessons-cny/blob/master/code-exercises-etc/installing_pip.md
+
+# Use "import" keyword so that you can have all the great stuff tht comes with "requests" available to use in your program.
 import requests
+
+# And now, we can do the stuff!
 
 title = raw_input("Enter your movie: ")
 
