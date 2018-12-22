@@ -1,4 +1,4 @@
-email = "alisonjo2786@gmail.com"
+email = "alisonexample@gmail.com"
 #print email.find("@")
 
 at_sign_location = email.find("@")
