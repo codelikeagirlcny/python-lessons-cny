@@ -1,4 +1,4 @@
-email = 'alisonjo2786@gmail.com'
+email = 'alisonexample@gmail.com'
 print email.find("@")
 print email.find("Z")
 print email.find("A")
