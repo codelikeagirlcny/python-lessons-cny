@@ -14,11 +14,11 @@ if students > capacity:
 else:
     print "keep recruiting"
 
-#else does NOT get a conditional
-#else is a fallback/catch-all/backup
+# else does NOT get a conditional
+# else is a fallback/catch-all/backup
 #if students < capacity:
 #    print "keep recruiting"
-#else students >= capacity:
+#else students >= capacity: #wrong!
 #    print "end ticket signups"
 
 tas = 5
@@ -45,8 +45,9 @@ if volunteers < goal:
 else:
     print "you have enough volunteers!"
 
-email = "alisonjo2786@gmail.com"
-if "alisonjo2786@gmail.com".count("@") > 1:
+email = "alisonexample@gmail.com"
+#if email.count("@") > 1:
+if "alisonexample@gmail.com".count("@") > 1:
     # return an email validation error
     print "you did it wrong"
 
@@ -66,6 +67,9 @@ if gender.lower() == "f" or students < capacity:
     # let the boys in
 else:
     # no boys allowed
+
+
+# NESTED CONDITIONALS
 
 days_left = 3
 if students >= capacity:
