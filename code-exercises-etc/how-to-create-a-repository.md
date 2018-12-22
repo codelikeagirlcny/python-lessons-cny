@@ -4,6 +4,5 @@ We will be using GitHub for our class materials and exercises. Class materials w
 2. Once signed in, look for the plus sign in the upper right hand corner, click the dropdown menu next to it and select “New Repository”.
 3. Name your repository (ex. Python Lessons, or Python Playtime) and add a description if you’d like. Keep the repo “Public” and check the box to <b>“Initialize this repository with a README”</b>. (You don’t need to change anything with the boxes that say “Add .gitignore” and “Add a license”) 
 4. Create repository! 
-
 5. Epilogue: To post your playtime solutions, go to your GitHub repository, and simply click "Create new file" or "Upload files" to add your playtime solution files.
    1. To edit a file already added to your repository: View the file and click the "pencil" edit button.
