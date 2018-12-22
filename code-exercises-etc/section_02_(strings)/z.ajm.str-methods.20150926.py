@@ -1,4 +1,4 @@
-email = "AlisonJo@2786@gmail.com"
+email = "AlisonJo@example@gmail.com"
 #print email.find("@")
 #print email.find("N")
 #print email.find("n")
