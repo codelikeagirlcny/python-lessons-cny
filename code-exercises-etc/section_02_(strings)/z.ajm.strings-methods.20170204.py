@@ -1,4 +1,4 @@
-email = "alisonjo2786@gmail.com"
+email = "alisonexample@gmail.com"
 twitter = "@alisonjo2786"
 
 print email.find("@")
