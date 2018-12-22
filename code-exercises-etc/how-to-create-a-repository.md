@@ -6,3 +6,4 @@ We will be using GitHub for our class materials and exercises. Class materials w
 4. Create repository! 
 5. Epilogue: To post your playtime solutions, go to your GitHub repository, and simply click "Create new file" or "Upload files" to add your playtime solution files.
    1. To edit a file already added to your repository: View the file and click the "pencil" edit button.
+   2. **CLG Members:** Add your solution URLs to the contact list (Google Sheets)!
