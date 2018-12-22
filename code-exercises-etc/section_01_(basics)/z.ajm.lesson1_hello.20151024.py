@@ -3,12 +3,12 @@ twitter = "@alisonjo2786"
 print twitter
 print "twitter"
 
-phone = '315-481-2904'
+phone = '315-555-2955'
 
 print phone
 
 # Here I'm testing out tabs and new lines.
-print 'Alison\'s contact info:\nAlison\talisonjo2786@gmail.com\nSarah\tsarah@gmail.com'
+print 'Alison\'s contact info:\nAlison\talisonexample@gmail.com\nSarah\tsarah@gmail.com'
 
 print "\n"
 
