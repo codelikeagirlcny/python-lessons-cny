@@ -5,8 +5,8 @@ twitter = "@alisonjo2786"
 
 #print "twitter"
 
-phone1 = "315-481-2904"
-phone2 = 315-481-2904
+phone1 = "315-555-2955"
+phone2 = 315-555-2955
 
 #print phone1
 #print phone2
