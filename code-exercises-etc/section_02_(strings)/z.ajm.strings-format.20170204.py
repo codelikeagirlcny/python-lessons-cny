@@ -26,5 +26,5 @@ print """That tweet is {0} characters.
 You have {1} characters left.""".format(tweet_length, max_tweet_length - tweet_length)
 
 
-#phone = "315-481-2904"
+#phone = "315-555-2955"
 #print "My phone number is ({0}) {1}.".format(phone[:3], phone[4:])
