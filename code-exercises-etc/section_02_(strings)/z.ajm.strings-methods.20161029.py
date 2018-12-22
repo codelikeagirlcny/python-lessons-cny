@@ -7,13 +7,13 @@ twitter = "@alisonjo2786"
 twitter = twitter.replace("@", "#")
 print twitter
 
-#last_name = "mccauley"
+#last_name = "oppedibango"
 #print last_name.find("a")
 #print last_name.find("c")
 #print last_name.find("z")
 #print last_name.find("E")
 
-name = "Alison McCauley"
+name = "Alison Oppedibango"
 name_sep = name.find(" ")
 lname = name[name_sep+1:]
 print lname
@@ -23,10 +23,5 @@ print lname
 ##print lname
 
 lname = lname.lower()
-number_of_cs = lname.count("c")
-print number_of_cs
-
-
-
-
-
+number_of_os = lname.count("o")
+print number_of_os
