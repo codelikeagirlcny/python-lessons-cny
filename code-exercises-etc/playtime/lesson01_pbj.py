@@ -1,5 +1,8 @@
 # Peanut Butter Jelly Time!
 
+# Preface: Refer to Section 01 > simple_math.py for number/arithmetic examples (https://github.com/codelikeagirlcny/python-lessons-cny/blob/master/code-exercises-etc/section_01_(basics)/simple_math.py).
+
+
 # First Goal: Create a program that can tell you whether or not you can make a peanut butter and jelly sandwich
 
 # Second Goal: Modify that program to tell you: if you can make a sandwich, how many you can make
