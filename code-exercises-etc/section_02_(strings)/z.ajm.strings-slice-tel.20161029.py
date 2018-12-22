@@ -1,4 +1,4 @@
-phone = "(315) 481-2904"
+phone = "(315) 555-2955"
 ##
 ####print phone[1:4]
 ####print phone[6:9]
@@ -10,7 +10,7 @@ phone = "(315) 481-2904"
 #phone_4 = phone.find("4")
 
 pizza_place = "Alison's Pizza"
-phone = "315-481-2904"
+phone = "315-555-2955"
 #print "Call {0} for great pizza.".format(phone)
 #print "Call {1}, which is the number for {0}, for great pizza.".format(pizza_place, phone[4:])
 
@@ -24,7 +24,7 @@ tweet = """In just over one year, @hearmecode has reached over 800 members who a
 ##print """The tweet is {0} characters.
 ##You have {1} characters left.""".format(len(tweet), tweet_maxlength - len(tweet))
 
-phone = "315-481-2904"
+phone = "315-555-2955"
 
 #print "-Different Format: ({0}) {1}".format(phone[:3], phone[4:])
 
