@@ -3,7 +3,7 @@
 
 
 # Let's start by creating a variable called github_handle; it will hold a string with my GitHub handle in it
-github_handle = '@shannonturner'
+github_handle = '@alisonjo2786'
 
 
 # You can use a comma to separate different items that you want to print as shown below
@@ -17,7 +17,7 @@ print "My first name is ", github_handle[1:8]
 
 # Here's how you can visualize the print statement above.
 
-#       @shannonturner
+#       @alisonjo2786
 #       0123456789....
 
 # A note about the above: Python starts counting at zero, and the last few letters (r, n, e, r) are tied to 10, 11, 12, 13
@@ -25,21 +25,20 @@ print "My first name is ", github_handle[1:8]
 # Or, shown vertically, it looks like this:
 
 ##      0		@
-##      1		s
-##      2		h
-##      3		a
-##      4		n
-##      5		n
-##      6		o
-##      7		n
-##      8		t
-##      9		u
-##      10		r
-##      11		n
-##      12		e
-##      13		r
+##      1		a
+##      2		l
+##      3		i
+##      4		s
+##      5		o
+##      6		n
+##      7		j
+##      8		o
+##      9		2
+##      10		7
+##      11		8
+##      12		6
 
-# So in the example of github_handle[1:8], notice that the t (at slice #8) is not included, but the s (at slice #1), is.
+# So in the example of github_handle[1:7], notice that the j (at slice #7) is not included, but the a (at slice #1), is.
 # That's because the first slice value is inclusive, but the second slice value is exclusive.
 # I think of it as: Python starts at 1 and walks UNTIL it gets to 8 and then stops, gathering up everything in between.
 
